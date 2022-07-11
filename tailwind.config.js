@@ -17,7 +17,10 @@ module.exports = {
         white:'#FFFFFF',
         vectorblue:'rgba(39, 117, 202, 0.2)',
         vectororange:'rgba(249, 170, 75, 0.28)',
-        lightviolet:'#F3F2FD'
+        lightviolet:'#F3F2FD',
+        gradient1:'#091E3A ',
+        gradient2:'#2F80ED ',
+        gradient3:'#2D9EE0'
 
 
 

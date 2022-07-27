@@ -602,12 +602,12 @@ video {
   margin: 0px;
 }
 
-.mb-10 {
-  margin-bottom: 2.5rem;
-}
-
 .mt-5 {
   margin-top: 1.25rem;
+}
+
+.mb-10 {
+  margin-bottom: 2.5rem;
 }
 
 .mt-10 {
@@ -929,8 +929,8 @@ video {
   padding-right: 4rem;
 }
 
-.pt-52 {
-  padding-top: 13rem;
+.pl-32 {
+  padding-left: 8rem;
 }
 
 .pl-16 {
